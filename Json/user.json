@@ -1,0 +1,51 @@
+[
+  {
+    "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c70" },
+    "username": "john_doe",
+    "password": "strongpassword123!",
+    "email": "john.doe@example.com",
+    "address": "1234 Elm St, Springfield, IL, 62701"
+  },
+  {
+    "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c71" },
+    "username": "jane_smith",
+    "password": "securepass2024#",
+    "email": "jane.smith@example.com",
+    "address": "5678 Oak Rd, Springfield, IL, 62702"
+  },
+  {
+    "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c72" },
+    "username": "alice_williams",
+    "password": "mysecurepassword2024",
+    "email": "alice.williams@example.com",
+    "address": "1357 Pine St, Springfield, IL, 62703"
+  },
+  {
+    "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c73" },
+    "username": "bob_martin",
+    "password": "welcometoapp@2024",
+    "email": "bob.martin@example.com",
+    "address": "2468 Birch Ave, Springfield, IL, 62704"
+  },
+  {
+    "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c74" },
+    "username": "carol_davis",
+    "password": "qwerty2024!",
+    "email": "carol.davis@example.com",
+    "address": "9876 Cedar Ln, Springfield, IL, 62705"
+  },
+  {
+    "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c75" },
+    "username": "daniel_lee",
+    "password": "letmeinSecurely@123",
+    "email": "daniel.lee@example.com",
+    "address": "4321 Maple Rd, Springfield, IL, 62706"
+  },
+  {
+    "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c76" },
+    "username": "emma_white",
+    "password": "strongestpassword2024",
+    "email": "emma.white@example.com",
+    "address": "7654 Walnut St, Springfield, IL, 62707"
+  }
+]

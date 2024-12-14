@@ -1,0 +1,59 @@
+[
+  {
+      "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c75" },
+      "user": { "$oid": "63ad8db1f7c10c1d4d8f5c71" },
+      "orderItems": [
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c73" }, "quantity": 1 },
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c74" }, "quantity": 3 }
+      ],
+      "totalAmount": 1200,
+      "status": "Shipped"
+  },
+  {
+      "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c76" },
+      "user": { "$oid": "63ad8db1f7c10c1d4d8f5c72" },
+      "orderItems": [
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c75" }, "quantity": 2 }
+      ],
+      "totalAmount": 800,
+      "status": "Delivered"
+  },
+  {
+      "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c77" },
+      "user": { "$oid": "63ad8db1f7c10c1d4d8f5c73" },
+      "orderItems": [
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c76" }, "quantity": 1 }
+      ],
+      "totalAmount": 300,
+      "status": "Cancelled"
+  },
+  {
+      "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c78" },
+      "user": { "$oid": "63ad8db1f7c10c1d4d8f5c74" },
+      "orderItems": [
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c77" }, "quantity": 5 },
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c78" }, "quantity": 2 }
+      ],
+      "totalAmount": 2500,
+      "status": "Processing"
+  },
+  {
+      "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c79" },
+      "user": { "$oid": "63ad8db1f7c10c1d4d8f5c75" },
+      "orderItems": [
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c79" }, "quantity": 3 },
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c80" }, "quantity": 1 }
+      ],
+      "totalAmount": 1800,
+      "status": "Pending"
+  },
+  {
+      "_id": { "$oid": "63ad8db1f7c10c1d4d8f5c80" },
+      "user": { "$oid": "63ad8db1f7c10c1d4d8f5c76" },
+      "orderItems": [
+          { "product": { "$oid": "63ad8db1f7c10c1d4d8f5c81" }, "quantity": 4 }
+      ],
+      "totalAmount": 1000,
+      "status": "Pending"
+  }
+]

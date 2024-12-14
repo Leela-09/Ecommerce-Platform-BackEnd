@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones with superior sound quality.",
+    "price": 150,
+    "quantity": 2,
+    "image": "img/assets/Headphone.jpg",
+    "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+    "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+    "__v": 0,
+    "brand": "SoundMax",
+    "category": "Audio",
+    "features": [
+      "Noise-cancelling",
+      "Wireless",
+      "Superior sound quality",
+      "Comfortable fit"
+    ],
+    "ratings": 4.5,
+    "quality": "High",
+    "befint": "Enjoy immersive sound with noise cancellation for a premium listening experience.",
+    "icons": [
+      "icon-noise-cancelling",
+      "icon-wireless",
+      "icon-sound-quality",
+      "icon-comfort"
+    ]
+  },
+  {
+    "name": "Smartphone",
+    "description": "Latest model with 128GB storage and 6GB RAM.",
+    "price": 600,
+    "quantity": 1,
+    "image": "/img/assets/smartphone.jpg",
+    "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+    "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+    "__v": 0,
+    "brand": "TechPro",
+    "category": "Electronics",
+    "features": [
+      "128GB storage",
+      "6GB RAM",
+      "High-resolution camera",
+      "Fast charging"
+    ],
+    "ratings": 4.2,
+    "quality": "Premium",
+    "befint": "Stay connected and productive with the latest mobile technology.",
+    "icons": [
+      "icon-storage",
+      "icon-ram",
+      "icon-camera",
+      "icon-fast-charging"
+    ]
+  },
+  {
+    "name": "Laptop",
+    "description": "High-performance laptop with 16GB RAM and 512GB SSD.",
+    "price": 1200,
+    "quantity": 1,
+    "image": "/img/assets/laptop.jpg",
+    "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+    "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+    "__v": 0,
+    "brand": "CompTech",
+    "category": "Computers",
+    "features": [
+      "16GB RAM",
+      "512GB SSD",
+      "Full HD display",
+      "Intel i7 Processor"
+    ],
+    "ratings": 4.8,
+    "quality": "Premium",
+    "befint": "Maximize productivity and entertainment with power-packed performance.",
+    "icons": [
+      "icon-ram",
+      "icon-ssd",
+      "icon-display",
+      "icon-processor"
+    ]
+  },
+
+  
+    {
+      "name": "Smartwatch",
+      "description": "Wearable tech with fitness tracking and notifications.",
+      "price": 199,
+      "quantity": 3,
+      "image": "/img/assets/SmartWatch.jpg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "FitTech",
+      "category": "Wearables",
+      "features": [
+        "Fitness tracking",
+        "Heart rate monitoring",
+        "Water-resistant",
+        "Notifications"
+      ],
+      "ratings": 4.3,
+      "befint": "Track your health and stay connected with smart notifications on the go.",
+      "icons": [
+        "icon-fitness",
+        "icon-heart-rate",
+        "icon-water-resistant",
+        "icon-notifications"
+      ],
+      "quality": "Premium"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with 10-hour battery life and clear sound.",
+      "price": 90,
+      "quantity": 2,
+      "image": "/img/assets/Bluetooth Speaker.jpg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "SoundBeats",
+      "category": "Audio",
+      "features": [
+        "10-hour battery life",
+        "Clear sound",
+        "Bluetooth connectivity",
+        "Portable"
+      ],
+      "ratings": 4.7,
+      "befint": "Take your music anywhere with portable, long-lasting sound quality.",
+      "icons": [
+        "icon-battery",
+        "icon-sound",
+        "icon-bluetooth",
+        "icon-portable"
+      ],
+      "quality": "High"
+    },
+    {
+      "name": "Electric Kettle",
+      "description": "Fast boiling kettle with auto shut-off feature.",
+      "price": 35,
+      "quantity": 1,
+      "image": "/img/assets/Electric Kettle.png",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "KettlePro",
+      "category": "Home Appliances",
+      "features": [
+        "Auto shut-off",
+        "Fast boiling",
+        "Compact design",
+        "Energy-efficient"
+      ],
+      "ratings": 4.1,
+      "befint": "Quickly boil water with safety and energy efficiency in mind.",
+      "icons": [
+        "icon-auto-shutoff",
+        "icon-fast-boiling",
+        "icon-compact",
+        "icon-energy-efficient"
+      ],
+      "quality": "Standard"
+    },
+    {
+      "name": "Digital Camera",
+      "description": "High-resolution digital camera with 20MP sensor and 4K video recording.",
+      "price": 450,
+      "quantity": 1,
+      "image": "/img/assets/Digital Camera.jpg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "PhotoPro",
+      "category": "Photography",
+      "features": [
+        "20MP sensor",
+        "4K video recording",
+        "Wide-angle lens",
+        "Built-in Wi-Fi"
+      ],
+      "ratings": 4.4,
+      "befint": "Capture high-quality photos and videos in any setting with advanced features.",
+      "icons": [
+        "icon-20mp",
+        "icon-4k-video",
+        "icon-wide-angle",
+        "icon-wifi"
+      ],
+      "quality": "Premium"
+    },
+    {
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable toothbrush with multiple cleaning modes and pressure sensor.",
+      "price": 40,
+      "quantity": 2,
+      "image": "/img/assets/Electric Toothbrush.jpeg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "CleanPro",
+      "category": "Personal Care",
+      "features": [
+        "Multiple cleaning modes",
+        "Pressure sensor",
+        "Rechargeable",
+        "Gentle on gums"
+      ],
+      "ratings": 4.6,
+      "befint": "Experience effective, gentle cleaning with advanced brushing technology.",
+      "icons": [
+        "icon-cleaning-modes",
+        "icon-pressure-sensor",
+        "icon-rechargeable",
+        "icon-gentle-gums"
+      ],
+      "quality": "High"
+    },
+    {
+      "name": "4K TV",
+      "description": "Ultra-high-definition 55-inch LED TV with smart features and voice control.",
+      "price": 799,
+      "quantity": 1,
+      "image": "/img/assets/4K TV.jpeg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "VisionTech",
+      "category": "Electronics",
+      "features": [
+        "4K resolution",
+        "Smart features",
+        "Voice control",
+        "55-inch screen"
+      ],
+      "ratings": 4.9,
+      "befint": "Enjoy stunning visuals and smart features with this next-generation TV.",
+      "icons": [
+        "icon-4k-resolution",
+        "icon-smart-features",
+        "icon-voice-control",
+        "icon-55-inch"
+      ],
+      "quality": "Premium"
+    },
+    {
+      "name": "Smart Bulb",
+      "description": "LED bulb with Wi-Fi control, color changing, and voice assistant support.",
+      "price": 25,
+      "quantity": 4,
+      "image": "/img/assets/Smart Bulb.jpg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "BrightTech",
+      "category": "Home Appliances",
+      "features": [
+        "Wi-Fi control",
+        "Color changing",
+        "Voice assistant support",
+        "Energy efficient"
+      ],
+      "ratings": 4.3,
+      "befint": "Create ambiance and control your lighting with smart technology.",
+      "icons": [
+        "icon-wifi-control",
+        "icon-color-changing",
+        "icon-voice-assistant",
+        "icon-energy-efficient"
+      ],
+      "quality": "Standard"
+    },
+    {
+      "name": "Wireless Router",
+      "description": "Dual-band router with high-speed internet support and extended range.",
+      "price": 70,
+      "quantity": 2,
+      "image": "/img/assets/Wireless Router.jpeg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "NetPro",
+      "category": "Networking",
+      "features": [
+        "Dual-band",
+        "High-speed internet support",
+        "Extended range",
+        "Easy setup"
+      ],
+      "ratings": 4.2,
+      "befint": "Enjoy reliable and fast internet connectivity with easy setup.",
+      "icons": [
+        "icon-dual-band",
+        "icon-high-speed",
+        "icon-extended-range",
+        "icon-easy-setup"
+      ],
+      "quality": "High"
+    },
+    {
+      "name": "Tablet",
+      "description": "10-inch tablet with 64GB storage and 8MP camera.",
+      "price": 250,
+      "quantity": 1,
+      "image": "/img/assets/Tab.jpg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "TabPro",
+      "category": "Electronics",
+      "features": [
+        "64GB storage",
+        "8MP camera",
+        "10-inch display",
+        "Compact design"
+      ],
+      "ratings": 4.4,
+      "befint": "Portable and powerful tablet for all your entertainment and productivity needs.",
+      "icons": [
+        "icon-storage",
+        "icon-camera",
+        "icon-display",
+        "icon-compact"
+      ],
+      "quality": "High"
+    },
+    {
+      "name": "Smart Thermostat",
+      "description": "Wi-Fi enabled thermostat with remote control via mobile app.",
+      "price": 150,
+      "quantity": 1,
+      "image": "/img/assets/Smart Thermostat.jpeg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "ClimateTech",
+      "category": "Home Appliances",
+      "features": [
+        "Wi-Fi enabled",
+        "Remote control",
+        "Energy-saving",
+        "Temperature control"
+      ],
+      "ratings": 4.6,
+      "befint": "Control your home’s climate from anywhere with smart temperature management.",
+      "icons": [
+        "icon-wifi-enabled",
+        "icon-remote-control",
+        "icon-energy-saving",
+        "icon-temperature-control"
+      ],
+      "quality": "Premium"
+    },
+    {
+      "name": "Wireless Charger",
+      "description": "Fast wireless charging pad for compatible devices.",
+      "price": 40,
+      "quantity": 2,
+      "image": "/img/assets/Wireless Charger.jpg",
+      "createdAt": { "$date": "2024-12-10T08:43:22.571Z" },
+      "updatedAt": { "$date": "2024-12-10T08:45:52.697Z" },
+      "__v": 0,
+      "brand": "ChargePro",
+      "category": "Accessories",
+      "features": [
+        "Fast wireless charging",
+        "Universal compatibility",
+        "Compact design",
+        "Overheat protection"
+      ],
+      "ratings": 4.5,
+      "befint": "Power up your devices quickly and safely with this wireless charger.",
+      "icons": [
+        "icon-fast-charging",
+        "icon-compatibility",
+        "icon-compact",
+        "icon-overheat-protection"
+      ],
+      "quality": "Standard"
+    }
+  ]
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
